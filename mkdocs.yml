@@ -6,3 +6,4 @@ nav:
         - 'Getting Started': 'how-to.md'
 repo_url: https://github.com/sab-inf/sse-mkdocs-exercise
 edit_uri: edit/main/docs/
+site_author: sab-inf
